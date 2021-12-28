@@ -1,0 +1,15 @@
+D:\Tracker\Tracker.Domain\bin\Release\net5.0\Tracker.Domain.deps.json
+D:\Tracker\Tracker.Domain\bin\Release\net5.0\Tracker.Domain.dll
+D:\Tracker\Tracker.Domain\bin\Release\net5.0\ref\Tracker.Domain.dll
+D:\Tracker\Tracker.Domain\bin\Release\net5.0\Tracker.Domain.pdb
+D:\Tracker\Tracker.Domain\bin\Release\net5.0\Tracker.Data.dll
+D:\Tracker\Tracker.Domain\bin\Release\net5.0\Tracker.Data.pdb
+D:\Tracker\Tracker.Domain\obj\Release\net5.0\Tracker.Domain.csproj.AssemblyReference.cache
+D:\Tracker\Tracker.Domain\obj\Release\net5.0\Tracker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tracker\Tracker.Domain\obj\Release\net5.0\Tracker.Domain.AssemblyInfoInputs.cache
+D:\Tracker\Tracker.Domain\obj\Release\net5.0\Tracker.Domain.AssemblyInfo.cs
+D:\Tracker\Tracker.Domain\obj\Release\net5.0\Tracker.Domain.csproj.CoreCompileInputs.cache
+D:\Tracker\Tracker.Domain\obj\Release\net5.0\Tracker.Domain.csproj.CopyComplete
+D:\Tracker\Tracker.Domain\obj\Release\net5.0\Tracker.Domain.dll
+D:\Tracker\Tracker.Domain\obj\Release\net5.0\ref\Tracker.Domain.dll
+D:\Tracker\Tracker.Domain\obj\Release\net5.0\Tracker.Domain.pdb

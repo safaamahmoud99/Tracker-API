@@ -1,0 +1,12 @@
+D:\Tracker\Tracker.Data\bin\Release\net5.0\Tracker.Data.deps.json
+D:\Tracker\Tracker.Data\bin\Release\net5.0\Tracker.Data.dll
+D:\Tracker\Tracker.Data\bin\Release\net5.0\ref\Tracker.Data.dll
+D:\Tracker\Tracker.Data\bin\Release\net5.0\Tracker.Data.pdb
+D:\Tracker\Tracker.Data\obj\Release\net5.0\Tracker.Data.csproj.AssemblyReference.cache
+D:\Tracker\Tracker.Data\obj\Release\net5.0\Tracker.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tracker\Tracker.Data\obj\Release\net5.0\Tracker.Data.AssemblyInfoInputs.cache
+D:\Tracker\Tracker.Data\obj\Release\net5.0\Tracker.Data.AssemblyInfo.cs
+D:\Tracker\Tracker.Data\obj\Release\net5.0\Tracker.Data.csproj.CoreCompileInputs.cache
+D:\Tracker\Tracker.Data\obj\Release\net5.0\Tracker.Data.dll
+D:\Tracker\Tracker.Data\obj\Release\net5.0\ref\Tracker.Data.dll
+D:\Tracker\Tracker.Data\obj\Release\net5.0\Tracker.Data.pdb

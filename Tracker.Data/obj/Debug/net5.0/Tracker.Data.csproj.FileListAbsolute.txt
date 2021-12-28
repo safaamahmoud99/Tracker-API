@@ -1,0 +1,36 @@
+D:\Tracker\Tracker.Data\bin\Debug\net5.0\Tracker.Data.deps.json
+D:\Tracker\Tracker.Data\bin\Debug\net5.0\Tracker.Data.dll
+D:\Tracker\Tracker.Data\bin\Debug\net5.0\ref\Tracker.Data.dll
+D:\Tracker\Tracker.Data\bin\Debug\net5.0\Tracker.Data.pdb
+D:\Tracker\Tracker.Data\obj\Debug\net5.0\Tracker.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tracker\Tracker.Data\obj\Debug\net5.0\Tracker.Data.AssemblyInfoInputs.cache
+D:\Tracker\Tracker.Data\obj\Debug\net5.0\Tracker.Data.AssemblyInfo.cs
+D:\Tracker\Tracker.Data\obj\Debug\net5.0\Tracker.Data.csproj.CoreCompileInputs.cache
+D:\Tracker\Tracker.Data\obj\Debug\net5.0\Tracker.Data.dll
+D:\Tracker\Tracker.Data\obj\Debug\net5.0\ref\Tracker.Data.dll
+D:\Tracker\Tracker.Data\obj\Debug\net5.0\Tracker.Data.pdb
+D:\Tracker\Tracker.Data\obj\Debug\net5.0\Tracker.Data.csproj.AssemblyReference.cache
+D:\roshdy's project\roshdy's project\Tracker\Tracker.Data\bin\Debug\net5.0\Tracker.Data.deps.json
+D:\roshdy's project\roshdy's project\Tracker\Tracker.Data\bin\Debug\net5.0\Tracker.Data.dll
+D:\roshdy's project\roshdy's project\Tracker\Tracker.Data\bin\Debug\net5.0\ref\Tracker.Data.dll
+D:\roshdy's project\roshdy's project\Tracker\Tracker.Data\bin\Debug\net5.0\Tracker.Data.pdb
+D:\roshdy's project\roshdy's project\Tracker\Tracker.Data\obj\Debug\net5.0\Tracker.Data.csprojAssemblyReference.cache
+D:\roshdy's project\roshdy's project\Tracker\Tracker.Data\obj\Debug\net5.0\Tracker.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\roshdy's project\roshdy's project\Tracker\Tracker.Data\obj\Debug\net5.0\Tracker.Data.AssemblyInfoInputs.cache
+D:\roshdy's project\roshdy's project\Tracker\Tracker.Data\obj\Debug\net5.0\Tracker.Data.AssemblyInfo.cs
+D:\roshdy's project\roshdy's project\Tracker\Tracker.Data\obj\Debug\net5.0\Tracker.Data.csproj.CoreCompileInputs.cache
+D:\roshdy's project\roshdy's project\Tracker\Tracker.Data\obj\Debug\net5.0\Tracker.Data.dll
+D:\roshdy's project\roshdy's project\Tracker\Tracker.Data\obj\Debug\net5.0\ref\Tracker.Data.dll
+D:\roshdy's project\roshdy's project\Tracker\Tracker.Data\obj\Debug\net5.0\Tracker.Data.pdb
+D:\Safaa\Tracker20-12-2021\Tracker\Tracker.Data\bin\Debug\net5.0\Tracker.Data.deps.json
+D:\Safaa\Tracker20-12-2021\Tracker\Tracker.Data\bin\Debug\net5.0\Tracker.Data.dll
+D:\Safaa\Tracker20-12-2021\Tracker\Tracker.Data\bin\Debug\net5.0\ref\Tracker.Data.dll
+D:\Safaa\Tracker20-12-2021\Tracker\Tracker.Data\bin\Debug\net5.0\Tracker.Data.pdb
+D:\Safaa\Tracker20-12-2021\Tracker\Tracker.Data\obj\Debug\net5.0\Tracker.Data.csproj.AssemblyReference.cache
+D:\Safaa\Tracker20-12-2021\Tracker\Tracker.Data\obj\Debug\net5.0\Tracker.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Safaa\Tracker20-12-2021\Tracker\Tracker.Data\obj\Debug\net5.0\Tracker.Data.AssemblyInfoInputs.cache
+D:\Safaa\Tracker20-12-2021\Tracker\Tracker.Data\obj\Debug\net5.0\Tracker.Data.AssemblyInfo.cs
+D:\Safaa\Tracker20-12-2021\Tracker\Tracker.Data\obj\Debug\net5.0\Tracker.Data.csproj.CoreCompileInputs.cache
+D:\Safaa\Tracker20-12-2021\Tracker\Tracker.Data\obj\Debug\net5.0\Tracker.Data.dll
+D:\Safaa\Tracker20-12-2021\Tracker\Tracker.Data\obj\Debug\net5.0\ref\Tracker.Data.dll
+D:\Safaa\Tracker20-12-2021\Tracker\Tracker.Data\obj\Debug\net5.0\Tracker.Data.pdb

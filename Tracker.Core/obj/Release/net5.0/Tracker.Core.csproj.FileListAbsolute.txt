@@ -1,0 +1,17 @@
+D:\Tracker\Tracker.Core\bin\Release\net5.0\Tracker.Core.deps.json
+D:\Tracker\Tracker.Core\bin\Release\net5.0\Tracker.Core.dll
+D:\Tracker\Tracker.Core\bin\Release\net5.0\ref\Tracker.Core.dll
+D:\Tracker\Tracker.Core\bin\Release\net5.0\Tracker.Core.pdb
+D:\Tracker\Tracker.Core\bin\Release\net5.0\Tracker.Data.dll
+D:\Tracker\Tracker.Core\bin\Release\net5.0\Tracker.Domain.dll
+D:\Tracker\Tracker.Core\bin\Release\net5.0\Tracker.Data.pdb
+D:\Tracker\Tracker.Core\bin\Release\net5.0\Tracker.Domain.pdb
+D:\Tracker\Tracker.Core\obj\Release\net5.0\Tracker.Core.csproj.AssemblyReference.cache
+D:\Tracker\Tracker.Core\obj\Release\net5.0\Tracker.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tracker\Tracker.Core\obj\Release\net5.0\Tracker.Core.AssemblyInfoInputs.cache
+D:\Tracker\Tracker.Core\obj\Release\net5.0\Tracker.Core.AssemblyInfo.cs
+D:\Tracker\Tracker.Core\obj\Release\net5.0\Tracker.Core.csproj.CoreCompileInputs.cache
+D:\Tracker\Tracker.Core\obj\Release\net5.0\Tracker.Core.csproj.CopyComplete
+D:\Tracker\Tracker.Core\obj\Release\net5.0\Tracker.Core.dll
+D:\Tracker\Tracker.Core\obj\Release\net5.0\ref\Tracker.Core.dll
+D:\Tracker\Tracker.Core\obj\Release\net5.0\Tracker.Core.pdb
