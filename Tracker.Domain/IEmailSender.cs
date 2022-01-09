@@ -12,4 +12,5 @@ namespace Tracker.Domain
         void SendEmail(MessageDTO message);
         void SendEmailString(string message);
     }
+
 }

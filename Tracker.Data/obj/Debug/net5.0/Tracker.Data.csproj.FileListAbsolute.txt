@@ -34,3 +34,15 @@ D:\Safaa\Tracker20-12-2021\Tracker\Tracker.Data\obj\Debug\net5.0\Tracker.Data.cs
 D:\Safaa\Tracker20-12-2021\Tracker\Tracker.Data\obj\Debug\net5.0\Tracker.Data.dll
 D:\Safaa\Tracker20-12-2021\Tracker\Tracker.Data\obj\Debug\net5.0\ref\Tracker.Data.dll
 D:\Safaa\Tracker20-12-2021\Tracker\Tracker.Data\obj\Debug\net5.0\Tracker.Data.pdb
+E:\GitSafaa\Tracker20-12-2021\Tracker\Tracker.Data\bin\Debug\net5.0\Tracker.Data.deps.json
+E:\GitSafaa\Tracker20-12-2021\Tracker\Tracker.Data\bin\Debug\net5.0\Tracker.Data.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker\Tracker.Data\bin\Debug\net5.0\ref\Tracker.Data.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker\Tracker.Data\bin\Debug\net5.0\Tracker.Data.pdb
+E:\GitSafaa\Tracker20-12-2021\Tracker\Tracker.Data\obj\Debug\net5.0\Tracker.Data.csproj.AssemblyReference.cache
+E:\GitSafaa\Tracker20-12-2021\Tracker\Tracker.Data\obj\Debug\net5.0\Tracker.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitSafaa\Tracker20-12-2021\Tracker\Tracker.Data\obj\Debug\net5.0\Tracker.Data.AssemblyInfoInputs.cache
+E:\GitSafaa\Tracker20-12-2021\Tracker\Tracker.Data\obj\Debug\net5.0\Tracker.Data.AssemblyInfo.cs
+E:\GitSafaa\Tracker20-12-2021\Tracker\Tracker.Data\obj\Debug\net5.0\Tracker.Data.csproj.CoreCompileInputs.cache
+E:\GitSafaa\Tracker20-12-2021\Tracker\Tracker.Data\obj\Debug\net5.0\Tracker.Data.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker\Tracker.Data\obj\Debug\net5.0\ref\Tracker.Data.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker\Tracker.Data\obj\Debug\net5.0\Tracker.Data.pdb
