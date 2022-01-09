@@ -58,3 +58,18 @@ E:\GitSafaa\Tracker20-12-2021\Tracker\Tracker.Domain\obj\Debug\net5.0\Tracker.Do
 E:\GitSafaa\Tracker20-12-2021\Tracker\Tracker.Domain\obj\Debug\net5.0\Tracker.Domain.dll
 E:\GitSafaa\Tracker20-12-2021\Tracker\Tracker.Domain\obj\Debug\net5.0\ref\Tracker.Domain.dll
 E:\GitSafaa\Tracker20-12-2021\Tracker\Tracker.Domain\obj\Debug\net5.0\Tracker.Domain.pdb
+D:\Safaa Tracker 9-1-2022\Tracker-API\Tracker.Domain\bin\Debug\net5.0\Tracker.Domain.deps.json
+D:\Safaa Tracker 9-1-2022\Tracker-API\Tracker.Domain\bin\Debug\net5.0\Tracker.Domain.dll
+D:\Safaa Tracker 9-1-2022\Tracker-API\Tracker.Domain\bin\Debug\net5.0\ref\Tracker.Domain.dll
+D:\Safaa Tracker 9-1-2022\Tracker-API\Tracker.Domain\bin\Debug\net5.0\Tracker.Domain.pdb
+D:\Safaa Tracker 9-1-2022\Tracker-API\Tracker.Domain\bin\Debug\net5.0\Tracker.Data.dll
+D:\Safaa Tracker 9-1-2022\Tracker-API\Tracker.Domain\bin\Debug\net5.0\Tracker.Data.pdb
+D:\Safaa Tracker 9-1-2022\Tracker-API\Tracker.Domain\obj\Debug\net5.0\Tracker.Domain.csprojAssemblyReference.cache
+D:\Safaa Tracker 9-1-2022\Tracker-API\Tracker.Domain\obj\Debug\net5.0\Tracker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Safaa Tracker 9-1-2022\Tracker-API\Tracker.Domain\obj\Debug\net5.0\Tracker.Domain.AssemblyInfoInputs.cache
+D:\Safaa Tracker 9-1-2022\Tracker-API\Tracker.Domain\obj\Debug\net5.0\Tracker.Domain.AssemblyInfo.cs
+D:\Safaa Tracker 9-1-2022\Tracker-API\Tracker.Domain\obj\Debug\net5.0\Tracker.Domain.csproj.CoreCompileInputs.cache
+D:\Safaa Tracker 9-1-2022\Tracker-API\Tracker.Domain\obj\Debug\net5.0\Tracker.Domain.csproj.CopyComplete
+D:\Safaa Tracker 9-1-2022\Tracker-API\Tracker.Domain\obj\Debug\net5.0\Tracker.Domain.dll
+D:\Safaa Tracker 9-1-2022\Tracker-API\Tracker.Domain\obj\Debug\net5.0\ref\Tracker.Domain.dll
+D:\Safaa Tracker 9-1-2022\Tracker-API\Tracker.Domain\obj\Debug\net5.0\Tracker.Domain.pdb

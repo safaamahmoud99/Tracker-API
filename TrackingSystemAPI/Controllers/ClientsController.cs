@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using  Tracker.Data.DTO;
 using  Tracker.Data.Models;
+using Tracker.Data.ViewModels;
 using Tracker.Domain.IRepositories;
 using Tracker.Domain.IServices;
 
@@ -126,8 +127,15 @@ namespace Tracker.API.Controllers
         [HttpPost]
         public ActionResult<ClientDTO> PostClientDTO(ClientDTO clientDTO)
         {
-            _clientService.AddClient(clientDTO);
-            return CreatedAtAction("GetClientDTO", new { id = clientDTO.Id }, clientDTO);
+            try
+            {
+                 _clientService.AddClient(clientDTO);
+                 return CreatedAtAction("GetClientDTO", new { id = clientDTO.Id }, clientDTO);
+            }
+            catch(Exception ex)
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError, new Response { Status = "code", Message = ex.Message });
+            }
         }
 
         // DELETE: api/Clients/5
