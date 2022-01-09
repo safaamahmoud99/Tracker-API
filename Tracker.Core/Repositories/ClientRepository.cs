@@ -133,7 +133,24 @@ namespace Tracker.Core.Repositories
             {
                 throw new NotExistException("Not Exist Exception");
             }
-            try
+            //try
+            //{
+            var clemailFound = _context.clients.Where(c => c.Email == clientDTO.Email && c.Id != clientDTO.Id).ToList();
+            if (clemailFound.Count > 0)
+            {
+                throw new AlreadyFoundException("email already found");
+            }
+            var clcodeFound = _context.clients.Where(c => c.ClientCode == clientDTO.ClientCode && c.Id != clientDTO.Id).ToList();
+            if (clcodeFound.Count > 0)
+            {
+                throw new AlreadyFoundException("code already found");
+            }
+            var clphoneFound = _context.clients.Where(c => c.Phone == clientDTO.Phone && c.Id != clientDTO.Id).ToList();
+            if (clphoneFound.Count > 0)
+            {
+                throw new AlreadyFoundException("phone already found");
+            }
+            else
             {
                 var client = new Client();
                 client.Id = clientDTO.Id;
@@ -148,10 +165,11 @@ namespace Tracker.Core.Repositories
                 _context.Entry(client).State = EntityState.Modified;
                 _context.SaveChanges();
             }
-            catch (Exception)
-            {
-                throw new NotCompletedException("Not Completed Exception");
-            }
+            //}
+            //catch (Exception)
+            //{
+            //    throw new NotCompletedException("Not Completed Exception");
+            //}
         }
     }
 }

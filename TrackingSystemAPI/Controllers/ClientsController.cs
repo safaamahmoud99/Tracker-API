@@ -117,10 +117,16 @@ namespace Tracker.API.Controllers
         [HttpPut("{id}")]
         public IActionResult PutClientDTO(int id, ClientDTO clientDTO)
         {
-            _clientService.UpdateClient(id, clientDTO);
-            return CreatedAtAction("GetClientDTO", new { id = clientDTO.Id }, clientDTO);
+            try
+            {
+                _clientService.UpdateClient(id, clientDTO);
+                return CreatedAtAction("GetClientDTO", new { id = clientDTO.Id }, clientDTO);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError, new Response { Status = "code", Message = ex.Message });
+            }
         }
-
         // POST: api/Clients
         // To protect from overposting attacks, enable the specific properties you want to bind to, for
         // more details, see https://go.microsoft.com/fwlink/?linkid=2123754.
