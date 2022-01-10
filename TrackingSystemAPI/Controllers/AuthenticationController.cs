@@ -60,7 +60,7 @@ namespace Tracker.API.Controllers
                     await userManager.AddClaimAsync(user, claim);
 
                 }
-                // safaa commit 
+               
                 var authSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_configuration["JWT:Secret"]));
 
                 var token = new JwtSecurityToken(
