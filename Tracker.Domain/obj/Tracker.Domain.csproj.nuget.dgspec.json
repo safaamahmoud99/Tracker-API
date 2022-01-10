@@ -1,33 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Safaa Tracker 9-1-2022\\Tracker-API\\Tracker.Domain\\Tracker.Domain.csproj": {}
+    "E:\\GitSafaa\\Tracker20-12-2021\\Tracker\\Tracker.Domain\\Tracker.Domain.csproj": {}
   },
   "projects": {
-    "D:\\Safaa Tracker 9-1-2022\\Tracker-API\\Tracker.Data\\Tracker.Data.csproj": {
+    "E:\\GitSafaa\\Tracker20-12-2021\\Tracker\\Tracker.Data\\Tracker.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Safaa Tracker 9-1-2022\\Tracker-API\\Tracker.Data\\Tracker.Data.csproj",
+        "projectUniqueName": "E:\\GitSafaa\\Tracker20-12-2021\\Tracker\\Tracker.Data\\Tracker.Data.csproj",
         "projectName": "Tracker.Data",
-        "projectPath": "D:\\Safaa Tracker 9-1-2022\\Tracker-API\\Tracker.Data\\Tracker.Data.csproj",
-        "packagesPath": "C:\\Users\\Basma\\.nuget\\packages\\",
-        "outputPath": "D:\\Safaa Tracker 9-1-2022\\Tracker-API\\Tracker.Data\\obj\\",
+        "projectPath": "E:\\GitSafaa\\Tracker20-12-2021\\Tracker\\Tracker.Data\\Tracker.Data.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "E:\\GitSafaa\\Tracker20-12-2021\\Tracker\\Tracker.Data\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Basma\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.1.config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://www.nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
@@ -97,41 +92,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.210\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Safaa Tracker 9-1-2022\\Tracker-API\\Tracker.Domain\\Tracker.Domain.csproj": {
+    "E:\\GitSafaa\\Tracker20-12-2021\\Tracker\\Tracker.Domain\\Tracker.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Safaa Tracker 9-1-2022\\Tracker-API\\Tracker.Domain\\Tracker.Domain.csproj",
+        "projectUniqueName": "E:\\GitSafaa\\Tracker20-12-2021\\Tracker\\Tracker.Domain\\Tracker.Domain.csproj",
         "projectName": "Tracker.Domain",
-        "projectPath": "D:\\Safaa Tracker 9-1-2022\\Tracker-API\\Tracker.Domain\\Tracker.Domain.csproj",
-        "packagesPath": "C:\\Users\\Basma\\.nuget\\packages\\",
-        "outputPath": "D:\\Safaa Tracker 9-1-2022\\Tracker-API\\Tracker.Domain\\obj\\",
+        "projectPath": "E:\\GitSafaa\\Tracker20-12-2021\\Tracker\\Tracker.Domain\\Tracker.Domain.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "E:\\GitSafaa\\Tracker20-12-2021\\Tracker\\Tracker.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Basma\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.1.config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://www.nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Safaa Tracker 9-1-2022\\Tracker-API\\Tracker.Data\\Tracker.Data.csproj": {
-                "projectPath": "D:\\Safaa Tracker 9-1-2022\\Tracker-API\\Tracker.Data\\Tracker.Data.csproj"
+              "E:\\GitSafaa\\Tracker20-12-2021\\Tracker\\Tracker.Data\\Tracker.Data.csproj": {
+                "projectPath": "E:\\GitSafaa\\Tracker20-12-2021\\Tracker\\Tracker.Data\\Tracker.Data.csproj"
               }
             }
           }
@@ -178,7 +168,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.210\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
