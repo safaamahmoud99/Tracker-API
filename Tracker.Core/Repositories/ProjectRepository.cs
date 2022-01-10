@@ -28,6 +28,7 @@ namespace Tracker.Core.Repositories
                     project.Cost = projectDTO.Cost;
                     project.ProjectPeriod = projectDTO.ProjectPeriod;
                     project.IsDeleted = false;
+
                     project.PlanndedStartDate = projectDTO.PlanndedStartDate;
                     project.ActualStartDate = projectDTO.ActualStartDate;
                     project.PlanndedEndDate = projectDTO.PlanndedEndDate;

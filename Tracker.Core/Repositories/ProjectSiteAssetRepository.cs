@@ -157,8 +157,8 @@ namespace Tracker.Core.Repositories
 
             if (LstProjectSiteAsset == null)
             {
-             //   return null;
-                throw new NotExistException("Not Exist Exception");
+                return null;
+              //  throw new NotExistException("Not Exist Exception");
             }
             else
             {

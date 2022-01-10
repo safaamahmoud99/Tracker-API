@@ -18,9 +18,9 @@ namespace Tracker.Core.Repositories
         }
         public void Add(ProjectType projectType)
         {
-            try
-            {
-                if (projectType != null)
+            //try
+            //{
+                if (projectType != null && projectType.TypeName!="")
                 {
                     _context.projectTypes.Add(projectType);
                     _context.SaveChanges();
@@ -30,11 +30,11 @@ namespace Tracker.Core.Repositories
                 {
                     throw new NotCompletedException("Not Completed Exception");
                 }
-            }
-            catch (Exception)
-            {
-                throw new NotExistException("Not Exist Exception");
-            }
+            //}
+            //catch (Exception)
+            //{
+            //    throw new NotExistException("Data Not completed ");
+            //}
         }
 
         public void Delete(int id)
@@ -86,14 +86,14 @@ namespace Tracker.Core.Repositories
             {
                 throw new NotExistException("Not Exist Exception");
             }
-            try
+            if (projectType != null && projectType.TypeName != "")
             {
                 _context.Entry(projectType).State = EntityState.Modified;
                 _context.SaveChanges();
             }
-            catch (Exception)
+            else
             {
-                throw new NotCompletedException("Not Completed Exception");
+                throw new NotCompletedException("Data Not Completed");
             }
         }
     }
