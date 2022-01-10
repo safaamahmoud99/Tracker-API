@@ -66,3 +66,20 @@ E:\GitSafaa\Tracker20-12-2021\Tracker\Tracker.Core\obj\Debug\net5.0\Tracker.Core
 E:\GitSafaa\Tracker20-12-2021\Tracker\Tracker.Core\obj\Debug\net5.0\Tracker.Core.dll
 E:\GitSafaa\Tracker20-12-2021\Tracker\Tracker.Core\obj\Debug\net5.0\ref\Tracker.Core.dll
 E:\GitSafaa\Tracker20-12-2021\Tracker\Tracker.Core\obj\Debug\net5.0\Tracker.Core.pdb
+D:\Safaa Tracker 9-1-2022\Tracker-API\Tracker.Core\bin\Debug\net5.0\Tracker.Core.deps.json
+D:\Safaa Tracker 9-1-2022\Tracker-API\Tracker.Core\bin\Debug\net5.0\Tracker.Core.dll
+D:\Safaa Tracker 9-1-2022\Tracker-API\Tracker.Core\bin\Debug\net5.0\ref\Tracker.Core.dll
+D:\Safaa Tracker 9-1-2022\Tracker-API\Tracker.Core\bin\Debug\net5.0\Tracker.Core.pdb
+D:\Safaa Tracker 9-1-2022\Tracker-API\Tracker.Core\bin\Debug\net5.0\Tracker.Data.dll
+D:\Safaa Tracker 9-1-2022\Tracker-API\Tracker.Core\bin\Debug\net5.0\Tracker.Domain.dll
+D:\Safaa Tracker 9-1-2022\Tracker-API\Tracker.Core\bin\Debug\net5.0\Tracker.Data.pdb
+D:\Safaa Tracker 9-1-2022\Tracker-API\Tracker.Core\bin\Debug\net5.0\Tracker.Domain.pdb
+D:\Safaa Tracker 9-1-2022\Tracker-API\Tracker.Core\obj\Debug\net5.0\Tracker.Core.csprojAssemblyReference.cache
+D:\Safaa Tracker 9-1-2022\Tracker-API\Tracker.Core\obj\Debug\net5.0\Tracker.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Safaa Tracker 9-1-2022\Tracker-API\Tracker.Core\obj\Debug\net5.0\Tracker.Core.AssemblyInfoInputs.cache
+D:\Safaa Tracker 9-1-2022\Tracker-API\Tracker.Core\obj\Debug\net5.0\Tracker.Core.AssemblyInfo.cs
+D:\Safaa Tracker 9-1-2022\Tracker-API\Tracker.Core\obj\Debug\net5.0\Tracker.Core.csproj.CoreCompileInputs.cache
+D:\Safaa Tracker 9-1-2022\Tracker-API\Tracker.Core\obj\Debug\net5.0\Tracker.Core.csproj.CopyComplete
+D:\Safaa Tracker 9-1-2022\Tracker-API\Tracker.Core\obj\Debug\net5.0\Tracker.Core.dll
+D:\Safaa Tracker 9-1-2022\Tracker-API\Tracker.Core\obj\Debug\net5.0\ref\Tracker.Core.dll
+D:\Safaa Tracker 9-1-2022\Tracker-API\Tracker.Core\obj\Debug\net5.0\Tracker.Core.pdb
